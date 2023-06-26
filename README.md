@@ -13,7 +13,9 @@ A Landing Page é uma página web interativa e responsiva, projetada para fornec
 - **CSS**: O estilo e a aparência visual da página foram desenvolvidos usando CSS. Foram aplicadas técnicas de layout responsivo para garantir uma experiência consistente em diferentes dispositivos e tamanhos de tela.
 
 - **JavaScript**: Foram utilizados recursos de JavaScript para adicionar interatividade à página, como animações, validações de formulário ou integrações com serviços externos.
-
+  
+- **Sheet Monkey**: a planilha está disponibilizada no [link](https://docs.google.com/spreadsheets/d/1Ps6hIZCfRS0m8sT8BJahy4zKe7-7zkb9KQ6OpLzLfN8/edit#gid=0).
+  
 # 📁 Estrutura de Arquivos
 
 O repositório possui a seguinte estrutura de arquivos:
