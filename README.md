@@ -1,1 +1,62 @@
-# arquitetura
+# 🏠 Arquitetura
+
+Este é um repositório que contém os arquivos de uma Landing Page desenvolvida com HTML, CSS e JavaScript. Você pode acessar a página por meio deste [link](https://kaleidoscopic-cuchufli-68b7bf.netlify.app/).
+
+## 🌍 Visão Geral
+
+A Landing Page é uma página web interativa e responsiva, projetada para fornecer informações sobre um determinado produto, serviço ou evento. O objetivo principal dessa página é atrair e converter visitantes em leads ou clientes.
+
+## 🔧 Recursos e Tecnologias Utilizadas
+
+- **HTML**: A estrutura da página foi criada usando HTML semântico, garantindo uma base sólida para a construção do conteúdo.
+
+- **CSS**: O estilo e a aparência visual da página foram desenvolvidos usando CSS. Foram aplicadas técnicas de layout responsivo para garantir uma experiência consistente em diferentes dispositivos e tamanhos de tela.
+
+- **JavaScript**: Foram utilizados recursos de JavaScript para adicionar interatividade à página, como animações, validações de formulário ou integrações com serviços externos.
+  
+- **Sheet Monkey**: a planilha está disponibilizada no [link](https://docs.google.com/spreadsheets/d/1Ps6hIZCfRS0m8sT8BJahy4zKe7-7zkb9KQ6OpLzLfN8/edit#gid=0).
+  
+# 📁 Estrutura de Arquivos
+
+O repositório possui a seguinte estrutura de arquivos:
+
+```
+📦 index.html
+📦 styles.css
+📦 script.js
+📂 img/
+```
+
+- **index.html**: O arquivo HTML principal que contém a estrutura do conteúdo da página.
+
+- **styles.css**: O arquivo CSS que contém as regras de estilo para a página.
+
+- **script.js**: O arquivo JavaScript que contém os scripts para adicionar interatividade à página.
+
+- **img/**: Este diretório contém todos os recursos, como imagens e ícones, utilizados na página.
+
+## ▶️ Como Executar o Projeto Localmente
+
+Se você deseja executar o projeto em seu ambiente local, siga as etapas abaixo:
+
+1. Clone o repositório para sua máquina local:
+
+```bash
+git clone https://github.com/thiagomorais16/arquitetura
+```
+
+2. Navegue até o diretório do projeto:
+
+```bash
+cd arquitetura
+```
+
+3. Abra o arquivo `index.html` em um navegador da web. 
+
+Ou acesse o site diretamente: [https://kaleidoscopic-cuchufli-68b7bf.netlify.app/](https://kaleidoscopic-cuchufli-68b7bf.netlify.app/)
+
+Pronto! Agora você pode visualizar a Landing Page localmente em seu próprio ambiente.
+
+## 🤝 Contribuição
+
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue para relatar problemas ou enviar um pull request com melhorias ou novos recursos. Seu feedback e contribuições serão muito apreciados!
